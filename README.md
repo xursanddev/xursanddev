@@ -1,7 +1,7 @@
 ### Hi I'm Xursan Dev<img src="https://c.tenor.com/X24gHDQ9OoQAAAAi/grinning-face-with-smiling-eyes-joypixels.gif" width="30"/>
 
-- 🔭 I'm a programmer 👨‍💻 <img src="https://img2.freepng.ru/20180702/xri/kisspng-programmer-computer-icons-ninja-saga-computer-soft-5b39c4767970d8.4422908815305125024974.jpg" width="30" />
-- 🌱 I’m currently learning react js <img src="https://iconape.com/wp-content/png_logo_vector/react-logo.png"  width="30" />
+- 🔭 I'm a programmer 👨‍💻 <img src="https://juststickers.in/wp-content/uploads/2017/11/ninja-coder.png" width="25" height="30" />
+- 🌱 I’m currently learning react js <img src="https://iconape.com/wp-content/png_logo_vector/react-logo.png"  width="30" height="25" />
 - 🤔 I’m looking for help with <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/YouTube_social_white_squircle.svg/800px-YouTube_social_white_squircle.svg.png" width="30" />
 
 <!--
