@@ -1,4 +1,4 @@
-<strong> Hi I'm Xursan Dev </strong> <img src="https://c.tenor.com/X24gHDQ9OoQAAAAi/grinning-face-with-smiling-eyes-joypixels.gif" width="30"/>
+### Hi I'm Xursan Dev<img src="https://c.tenor.com/X24gHDQ9OoQAAAAi/grinning-face-with-smiling-eyes-joypixels.gif" width="30"/>
 
 
 
