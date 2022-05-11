@@ -7,6 +7,9 @@
 ## 📫 How to reach me: <a href="https://t.me/dasturchi_bilan" width="30" />@Dasturchi_bilan</a> <img src="https://cdn-0.emojis.wiki/emoji-pics/facebook/vulcan-salute-facebook.png" width="30"/>
 ## ⚡ Fun fact: always cheerful <img src="https://i.pinimg.com/originals/0b/3a/53/0b3a532d3604045cd8cd928075165a2a.png" width="35" />
 
+
+### Languages and tools I work with:
+<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/182506940/original/ad5ef8e6522c8cd274a847a6b54dfe8b6f303307/fix-react-bugs-and-ui-issues.png" />
 <!--
 **xursanddev/xursanddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
