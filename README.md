@@ -9,7 +9,7 @@
 
 
 ### Languages and tools I work with:
-<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/182506940/original/ad5ef8e6522c8cd274a847a6b54dfe8b6f303307/fix-react-bugs-and-ui-issues.png" />
+<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/182506940/original/ad5ef8e6522c8cd274a847a6b54dfe8b6f303307/fix-react-bugs-and-ui-issues.png" width="500" />
 <!--
 **xursanddev/xursanddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
