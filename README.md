@@ -12,6 +12,9 @@
 ## My contributionsni <br />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xursanddev&theme=dark)](https://git.io/streak-stats)
 
+[![Xursand Dev's github stats](https://github-readme-stats.vercel.app/api?username=javohirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javohirbekkhaydarov/github-readme-stats)
+
+
 ## 📫 How to reach me: <a href="https://t.me/dasturchi_bilan" width="30" />@Dasturchi_bilan</a> <img src="https://cdn-0.emojis.wiki/emoji-pics/facebook/vulcan-salute-facebook.png" width="30"/>
 <!--
 **xursanddev/xursanddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
