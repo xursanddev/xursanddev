@@ -6,7 +6,7 @@
 ## 💬 Ask me about programming <img src="https://www.pinclipart.com/picdir/big/489-4896022_computer-programming-png-programing-logo-transparent-clipart.png" width="35" height="30" />
 ## ⚡ Fun fact: always cheerful <img src="https://i.pinimg.com/originals/0b/3a/53/0b3a532d3604045cd8cd928075165a2a.png" width="35" />
 
-### Languages and tools I work with <img src="https://cdn.pixabay.com/photo/2017/10/24/11/53/tools-2884303_960_720.png" width="30" />
+## Languages and tools I work with <img src="https://cdn.pixabay.com/photo/2017/10/24/11/53/tools-2884303_960_720.png" width="30" />
 <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/182506940/original/ad5ef8e6522c8cd274a847a6b54dfe8b6f303307/fix-react-bugs-and-ui-issues.png" width="500" />
 
 ## My contributionsni <br />
